@@ -2,13 +2,37 @@
     {
         "id" : "1",
         "name": "Discrete Mathematics",
-        "length" : "26",
+        "duration" : "26",
         "price": "9.99"
     },
     {
         "id" : "2",
         "name": "Data Structure & Algorithms",
-        "length" : "60",
+        "duration" : "60",
         "price": "14.99"
+    },
+    {
+        "id" : "3",
+        "name": "Computer Graphics",
+        "duration" : "10",
+        "price": "5.99"
+    },
+    {
+        "id" : "4",
+        "name": "Database",
+        "duration" : "30",
+        "price": "12.99"
+    },
+    {
+        "id" : "5",
+        "name": "Artificial Intelligence",
+        "duration" : "60",
+        "price": "14.99"
+    },
+    {
+        "id" : "6",
+        "name": "Object Oriented Programming",
+        "duration" : "40",
+        "price": "13.99"
     }
 ]
