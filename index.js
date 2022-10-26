@@ -16,6 +16,14 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 });
 
+app.get('/courses/:id', (req, res) => {
+    const pid = req.params.id;
+    const singleCourse = courses.find(course => course.id === pid);
+    if (singleCourse) {
+        res.send(singleCourse);
+    }
+    res.send({});
+});
 
 
 app.listen(port);
