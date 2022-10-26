@@ -1,0 +1,14 @@
+[
+    {
+        "id" : "1",
+        "name": "Discrete Mathematics",
+        "length" : "26",
+        "price": "9.99"
+    },
+    {
+        "id" : "2",
+        "name": "Data Structure & Algorithms",
+        "length" : "60",
+        "price": "14.99"
+    }
+]
