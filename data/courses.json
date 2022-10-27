@@ -3,36 +3,48 @@
         "id" : "1",
         "name": "Discrete Mathematics",
         "duration" : "26",
-        "price": "9.99"
+        "price": "9.99",
+        "img": "https://i.ibb.co/m6R0d7t/dm.webp",
+        "description" : "Discrete mathematics forms the mathematical foundation of computer and information science. It is also a fascinating subject in itself.Learners will become familiar with a broad range of mathematical objects like sets, functions, relations, graphs, that are omnipresent in computer science. Perhaps more importantly, they will reach a certain level of mathematical maturity - being able to  understand formal statements and their proofs; coming up with rigorous proofs themselves; and coming up with interesting results.This course attempts to be rigorous without being overly formal. This means, for every concept we introduce we will show at least one interesting and non-trivial result and give a full proof. However, we will do so without too much formal notation, employing examples and figures whenever possible."
     },
     {
         "id" : "2",
         "name": "Data Structure & Algorithms",
         "duration" : "60",
-        "price": "14.99"
+        "price": "14.99",
+        "img": "https://i.ibb.co/Hd56Qgz/dsa.webp",
+        "description": "Master Algorithmic Programming Techniques. Advance your Software Engineering or Data Science Career by Learning Algorithms through Programming and Puzzle Solving. Ace coding interviews by implementing each algorithmic challenge in this Specialization. Apply the newly-learned algorithmic techniques to real-life problems, such as analyzing a huge social network or sequencing a genome of a deadly pathogen"
     },
     {
         "id" : "3",
         "name": "Computer Graphics",
         "duration" : "10",
-        "price": "5.99"
+        "price": "5.99",
+        "img": "https://i.ibb.co/0ZXcwrV/cg.webp",
+        "description": "Computer graphics can be a powerful tool for supporting visual problem solving, and interactivity plays a central role in harnessing the users' creativity. This course will introduce various interactive tools developed in computer graphics research field with their design rationales and algorithms. Examples include enhancements to graphical user interfaces, authoring tools for 2D drawings and 3D animations, and interactive computer-aided design systems. Rich live demonstrations and course assignments will give you insights and skills to design and implement such tools for your own problems."
     },
     {
         "id" : "4",
         "name": "Database",
         "duration" : "30",
-        "price": "12.99"
+        "price": "12.99",
+        "img": "https://i.ibb.co/tBq3Hz1/database.webp",
+        "description": "This Specialization is intended for beginners to learn how to become proficient writing Oracle SQL code to create, modify, and edit Oracle SQL Databases.You will learn the Oracle database foundations, explore the platform, try your hand at the basics, and become proficient at building and modifying databases."
     },
     {
         "id" : "5",
         "name": "Artificial Intelligence",
         "duration" : "60",
-        "price": "14.99"
+        "price": "14.99",
+        "img": "https://i.ibb.co/Ss8szhz/aii.webp",
+        "description" : "AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take."
     },
     {
         "id" : "6",
         "name": "Object Oriented Programming",
         "duration" : "40",
-        "price": "13.99"
+        "price": "13.99",
+        "img": "https://i.ibb.co/P9VzJ1Y/oop.webp",
+        "description": "This Specialization is for aspiring software developers with some programming experience in at least one other programming language (e.g., Python, C, JavaScript, etc.) who want to be able to solve more complex problems through objected-oriented design with Java. In addition to learning Java, you will gain experience with two Java development environments (BlueJ and Eclipse), learn how to program with graphical user interfaces, and learn how to design programs capable of managing large amounts of data. These software engineering skills are broadly applicable across wide array of industries."
     }
 ]
